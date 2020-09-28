@@ -1,14 +1,3 @@
 # Lucas Vieira Urquiza :heavy_check_mark:
 
-<details>
-    <summary>
-    	<b>
-        	Things to know about me!
-        </b>
-        <i>
-        	(Click to expand!)
-        </i>
-    </summary>
-    <br>
-    This is going to be hidden!
-</details>
+![Lucas Urquiza's github stats](https://github-readme-stats.vercel.app/api?username=lucasvurquiza&show_icons=true&theme=dark)
