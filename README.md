@@ -1,5 +1,5 @@
 # Lucas Vieira Urquiza :heavy_check_mark:
-## Hi, I'm a Junior Dev on React-Native and React.JS, feel free to look at my repositories.
+## Hi, I'm a Dev on React-Native and React.JS, feel free to look at my repositories.
 
 ![Lucas Urquiza's github stats](https://github-readme-stats.vercel.app/api?username=lucasvurquiza&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvurquiza&layout=compact&theme=tokyonight)
