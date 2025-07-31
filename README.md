@@ -2,8 +2,6 @@
 
 ## Hi, I'm a Dev on React-Native and React.JS, feel free to look at my repositories.
 
----
-
 ## 📌 About Me
 
 * 💻 Mobile Developer with 5 years of experience, focused on React Native
